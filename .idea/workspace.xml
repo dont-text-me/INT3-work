@@ -4,14 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a11455c5-998c-4d8a-85e6-959198e30cc5" name="Changes" comment="add unfinished lab 2 and pre commit config">
+    <list default="true" id="a11455c5-998c-4d8a-85e6-959198e30cc5" name="Changes" comment="finish task 4 in practical 0">
+      <change afterPath="$PROJECT_DIR$/week-2/PADL_pract-1_probabilities.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-2/week1-theory-exercises.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-1/PADL_practical-0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week-1/PADL_practical-0.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-2/PADL_practical1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week-2/PADL_practical1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -21,6 +30,16 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
@@ -45,6 +64,14 @@
           </list>
         </option>
       </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="8189c94a-5b0b-4b2e-9a86-184a786e0f8f" />
+        <option name="url" value="https://github.com/dont-text-me/PADL-work.git" />
+      </UrlAndAccount>
     </option>
   </component>
   <component name="MarkdownSettingsMigration">
@@ -248,7 +275,8 @@
       <workItem from="1708090632207" duration="2207000" />
       <workItem from="1708093410326" duration="10000" />
       <workItem from="1708105075342" duration="261000" />
-      <workItem from="1708163782511" duration="894000" />
+      <workItem from="1708163782511" duration="3392000" />
+      <workItem from="1708168403260" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="fix .idea">
       <option name="closed" value="true" />
@@ -274,16 +302,36 @@
       <option name="project" value="LOCAL" />
       <updated>1708105277517</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="finish task 4 in practical 0">
+      <option name="closed" value="true" />
+      <created>1708165053644</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708165053644</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix .idea" />
     <MESSAGE value="add week 2 pre practical files" />
     <MESSAGE value="add unfinished lab 2 and pre commit config" />
-    <option name="LAST_COMMIT_MESSAGE" value="add unfinished lab 2 and pre commit config" />
+    <MESSAGE value="finish task 4 in practical 0" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish task 4 in practical 0" />
   </component>
 </project>
