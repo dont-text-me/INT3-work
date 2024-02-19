@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a11455c5-998c-4d8a-85e6-959198e30cc5" name="Changes" comment="finish task 4 in practical 0">
-      <change afterPath="$PROJECT_DIR$/week-2/PADL_pract-1_probabilities.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week-2/week1-theory-exercises.ipynb" afterDir="false" />
+    <list default="true" id="a11455c5-998c-4d8a-85e6-959198e30cc5" name="Changes" comment="finish practical 1 TODO theory">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-2/PADL_practical1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week-2/PADL_practical1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-2/week1-theory-exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week-2/week1-theory-exercises.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +85,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;LaTeX.test.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;week-2&quot;,
@@ -119,6 +118,27 @@
       <option name="CUSTOM_SETTINGS" value="false" />
       <option name="USE_OPTIONS" value="false" />
       <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory" temporary="true">
+      <texify>
+        <compiler>PDFLATEX</compiler>
+        <compiler-path />
+        <sumatra-path />
+        <pdf-viewer>NONE</pdf-viewer>
+        <viewer-command />
+        <compiler-arguments />
+        <envs />
+        <main-file />
+        <output-path>$PROJECT_DIR$/out</output-path>
+        <auxil-path>{projectDir}/auxil</auxil-path>
+        <compile-twice>false</compile-twice>
+        <output-format>PDF</output-format>
+        <latex-distribution>TEXLIVE</latex-distribution>
+        <has-been-run>true</has-been-run>
+        <bib-run-config>[]</bib-run-config>
+        <makeindex-run-config>[]</makeindex-run-config>
+      </texify>
       <method v="2" />
     </configuration>
     <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
@@ -241,6 +261,11 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="LaTeX.test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -277,6 +302,8 @@
       <workItem from="1708105075342" duration="261000" />
       <workItem from="1708163782511" duration="3392000" />
       <workItem from="1708168403260" duration="2000" />
+      <workItem from="1708168457175" duration="4582000" />
+      <workItem from="1708298913607" duration="5367000" />
     </task>
     <task id="LOCAL-00001" summary="fix .idea">
       <option name="closed" value="true" />
@@ -310,7 +337,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708165053644</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="finish practical 1 TODO theory">
+      <option name="closed" value="true" />
+      <created>1708276886392</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708276886392</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,6 +367,18 @@
     <MESSAGE value="add week 2 pre practical files" />
     <MESSAGE value="add unfinished lab 2 and pre commit config" />
     <MESSAGE value="finish task 4 in practical 0" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish task 4 in practical 0" />
+    <MESSAGE value="finish practical 1 TODO theory" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish practical 1 TODO theory" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/ivanbar/PycharmProjects/PADL-work/week-2/PADL_practical1.ipynb</url>
+          <line>243</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
