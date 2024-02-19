@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a11455c5-998c-4d8a-85e6-959198e30cc5" name="Changes" comment="finish practical 1 TODO theory">
+    <list default="true" id="a11455c5-998c-4d8a-85e6-959198e30cc5" name="Changes" comment="more work on theory worksheet">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week-2/week1-theory-exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week-2/week1-theory-exercises.ipynb" afterDir="false" />
     </list>
@@ -303,7 +303,8 @@
       <workItem from="1708163782511" duration="3392000" />
       <workItem from="1708168403260" duration="2000" />
       <workItem from="1708168457175" duration="4582000" />
-      <workItem from="1708298913607" duration="5367000" />
+      <workItem from="1708298913607" duration="5636000" />
+      <workItem from="1708335299859" duration="8538000" />
     </task>
     <task id="LOCAL-00001" summary="fix .idea">
       <option name="closed" value="true" />
@@ -345,7 +346,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708276886392</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="more work on theory worksheet">
+      <option name="closed" value="true" />
+      <created>1708304541469</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708304541469</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,7 +377,8 @@
     <MESSAGE value="add unfinished lab 2 and pre commit config" />
     <MESSAGE value="finish task 4 in practical 0" />
     <MESSAGE value="finish practical 1 TODO theory" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish practical 1 TODO theory" />
+    <MESSAGE value="more work on theory worksheet" />
+    <option name="LAST_COMMIT_MESSAGE" value="more work on theory worksheet" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
