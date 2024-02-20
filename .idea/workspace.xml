@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a11455c5-998c-4d8a-85e6-959198e30cc5" name="Changes" comment="more work on theory worksheet">
+    <list default="true" id="a11455c5-998c-4d8a-85e6-959198e30cc5" name="Changes" comment="2 to go">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week-2/week1-theory-exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week-2/week1-theory-exercises.ipynb" afterDir="false" />
     </list>
@@ -304,7 +304,10 @@
       <workItem from="1708168403260" duration="2000" />
       <workItem from="1708168457175" duration="4582000" />
       <workItem from="1708298913607" duration="5636000" />
-      <workItem from="1708335299859" duration="10436000" />
+      <workItem from="1708335299859" duration="13383000" />
+      <workItem from="1708387145338" duration="1976000" />
+      <workItem from="1708442210812" duration="5000" />
+      <workItem from="1708447481707" duration="2541000" />
     </task>
     <task id="LOCAL-00001" summary="fix .idea">
       <option name="closed" value="true" />
@@ -362,7 +365,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708375095011</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2 to go">
+      <option name="closed" value="true" />
+      <created>1708377595304</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708377595304</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,7 +397,8 @@
     <MESSAGE value="finish task 4 in practical 0" />
     <MESSAGE value="finish practical 1 TODO theory" />
     <MESSAGE value="more work on theory worksheet" />
-    <option name="LAST_COMMIT_MESSAGE" value="more work on theory worksheet" />
+    <MESSAGE value="2 to go" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 to go" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
