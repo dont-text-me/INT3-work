@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a11455c5-998c-4d8a-85e6-959198e30cc5" name="Changes" comment="1 to go">
-      <change beforePath="$PROJECT_DIR$/week-2/week1-theory-exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week-2/week1-theory-exercises.ipynb" afterDir="false" />
+    <list default="true" id="a11455c5-998c-4d8a-85e6-959198e30cc5" name="Changes" comment="fit intercepts">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-3/Regularisation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week-3/Regularisation.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +48,10 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="week-3" />
+                    <option name="lastUsedInstant" value="1708686761" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="week-2" />
                     <option name="lastUsedInstant" value="1708105270" />
                   </RecentBranch>
@@ -85,9 +90,10 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;LaTeX.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;week-2&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;week-3&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -95,9 +101,14 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
+    ]
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.scratch">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="INT3" />
       <option name="ENV_FILES" value="" />
@@ -169,6 +180,30 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="INT3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.9" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,6 +297,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.scratch" />
         <item itemvalue="LaTeX.test" />
       </list>
     </recent_temporary>
@@ -307,6 +343,14 @@
       <workItem from="1708387145338" duration="1976000" />
       <workItem from="1708442210812" duration="5000" />
       <workItem from="1708447481707" duration="3101000" />
+      <workItem from="1708686747497" duration="1158000" />
+      <workItem from="1708695296946" duration="744000" />
+      <workItem from="1708777164921" duration="3633000" />
+      <workItem from="1708781282662" duration="137000" />
+      <workItem from="1708822105035" duration="665000" />
+      <workItem from="1708939860454" duration="267000" />
+      <workItem from="1708940132769" duration="570000" />
+      <workItem from="1709120997661" duration="1535000" />
     </task>
     <task id="LOCAL-00001" summary="fix .idea">
       <option name="closed" value="true" />
@@ -380,7 +424,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708450460458</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="finish week 3 practical">
+      <option name="closed" value="true" />
+      <created>1708780682583</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708780682584</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fit intercepts">
+      <option name="closed" value="true" />
+      <created>1708942271863</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708942271863</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -406,7 +466,9 @@
     <MESSAGE value="more work on theory worksheet" />
     <MESSAGE value="2 to go" />
     <MESSAGE value="1 to go" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 to go" />
+    <MESSAGE value="finish week 3 practical" />
+    <MESSAGE value="fit intercepts" />
+    <option name="LAST_COMMIT_MESSAGE" value="fit intercepts" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
