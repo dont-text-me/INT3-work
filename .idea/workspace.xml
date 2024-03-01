@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a11455c5-998c-4d8a-85e6-959198e30cc5" name="Changes" comment="fit intercepts">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-3/Regularisation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week-3/Regularisation.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="a11455c5-998c-4d8a-85e6-959198e30cc5" name="Changes" comment="set up week 4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,16 +45,20 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="week-4" />
+                    <option name="lastUsedInstant" value="1709300415" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1709300229" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="week-3" />
                     <option name="lastUsedInstant" value="1708686761" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="week-2" />
                     <option name="lastUsedInstant" value="1708105270" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1708105269" />
                   </RecentBranch>
                 </list>
               </option>
@@ -87,27 +88,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;LaTeX.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;week-3&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "LaTeX.test.executor": "Run",
+    "Python.scratch.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "week-4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;Python&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="LaTeX.test">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="INT3" />
@@ -441,7 +442,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708942271863</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="set up week 4">
+      <option name="closed" value="true" />
+      <created>1709300446627</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1709300446627</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -469,7 +478,8 @@
     <MESSAGE value="1 to go" />
     <MESSAGE value="finish week 3 practical" />
     <MESSAGE value="fit intercepts" />
-    <option name="LAST_COMMIT_MESSAGE" value="fit intercepts" />
+    <MESSAGE value="set up week 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="set up week 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
