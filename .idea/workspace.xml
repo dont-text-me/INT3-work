@@ -108,7 +108,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Python.scratch">
+  <component name="RunManager" selected="LaTeX.test">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="INT3" />
       <option name="ENV_FILES" value="" />
@@ -297,6 +297,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="LaTeX.test" />
         <item itemvalue="Python.scratch" />
         <item itemvalue="LaTeX.test" />
       </list>
